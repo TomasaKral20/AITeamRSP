@@ -55,10 +55,10 @@ o  Předává zdrojové texty časopisu nakladatelství
 ### Recenzent:
 - Recenzent  po  přihlášení prostuduje  redaktorem předělený  příspěvek,  vyplní  a odešle  recenzní  
 formulář, obsahující kromě identifikátorů autora a článku následující kategoriální údaje:  
---  aktuálnost, zajímavost a přínosnost  
---  originalita  
---  odborná úroveň  
---  jazyková a stylistická úroveň  
+1.  aktuálnost, zajímavost a přínosnost  
+2.  originalita  
+3.  odborná úroveň  
+4.  jazyková a stylistická úroveň  
 - ve stupnici 1 (nejlepší) až 5  (nejhorší). Kromě toho musí recenzní formulář obsahovat textové  
 pole na otevřenou odpověď a datum recenze
 
