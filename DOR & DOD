@@ -1,0 +1,17 @@
+Definition of Ready/definice připravenosti (DoR)
+•	Jsou definována akceptační kritéria 
+•	Celý tým akceptuje smluvená kritéria  
+•	Určena výkonnostní kritéria
+•	Jsou určeny týmové role a každý s nimi souhlasí 
+•	Počítá se s možnou úpravou bugů a dalších prací, a aktivity ke kterým se tým zavázal, jsou obsaženy ve sprintu
+•	Všichni členové mají zadány úkoly, jsou s nimi seznámeni a souhlasí s nimi
+•	Pro všechny členy týmu a aktivity je zadán časový plán
+•	Je připraveno prostředí, ve kterém bude systém spuštěn
+
+Definition od Done
+•	Pro všechna známá issue jsou naprogramovány programy
+•	Je vytvořeno funkční prostředí, o kterém lze říci, že je uživatelsky přívětivé
+•	Všechny známé programy a funkce jsou nasazeny a problematika systému je vyřešena
+•	V průběhu sprintu bylo prováděno testování již hotových věcí a byly vylazeny nalezená bugy 
+•	Systém je otestován a je potvrzeno, že je vše funkční jak má
+•	Všichni členové týmu si plnili náplň svých rolí jak měli
