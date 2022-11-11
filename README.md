@@ -70,7 +70,8 @@ samostatně  provádět  nesmí. Má ale možnost je písemně formulovat, např
 
 
 ## Použité technologie
--  **WordPress...**
-- **MySQL**
+- **WordPress verze 6.1**
+- **MySQL verze min 5.4 **
+- **PHPMyAdmin verze min 7.1.3**
 
 
