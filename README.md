@@ -1,3 +1,4 @@
+
 # LOGOS MONOTECHNIKOS
 
 Aplikace pro prohlížení, sběr příspěvků a administraci recenzního řízení
@@ -71,7 +72,7 @@ samostatně  provádět  nesmí. Má ale možnost je písemně formulovat, např
 
 ## Použité technologie
 - **WordPress verze 6.1**
-- **MySQL verze min 5.4 **
+- **MySQL verze min 5.4**
 - **PHPMyAdmin verze min 7.1.3**
 
 
